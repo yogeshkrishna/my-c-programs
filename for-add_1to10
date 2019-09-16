@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+     int sum,c;
+    
+    for(c=0;c<=10;c++)
+    {
+        sum=sum+c;
+    }
+    
+    printf("%d",sum);
+    
+    return 0;
+    
+}
